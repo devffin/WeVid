@@ -1,0 +1,3 @@
+Bonjour à ceux qui regarderait ça !
+Ceci est un fichier de développement nécessaire pour la construction de ce site.
+Merci d'en prendre soin !
